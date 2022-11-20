@@ -52,5 +52,5 @@
 <details>
   <summary><b>👀&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-I have a passion for creating new things and keeping my learning experience active.
- 
+I have a passion for creating new things and keeping my learning experience active. 
+I'm currently studying C# and .NET at Patika.dev bootcamp 🌱 Thanks for stopping by, see you soon
