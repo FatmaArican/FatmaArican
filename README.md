@@ -1,6 +1,16 @@
 # Hi there, I'm Fatma 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FatmaArican&show_icons=true&theme=tokyonight" />
 
+
+
+
+
+
+
+
+<img align="left" width="47%" src="https://stars.medv.io/Naereen/badges.svg" />
+
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
