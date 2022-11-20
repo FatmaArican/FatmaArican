@@ -50,7 +50,7 @@
 
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>👩🏻‍💻&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 I have a passion for creating new things and keeping my learning experience active.
  
