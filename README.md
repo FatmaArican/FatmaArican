@@ -52,4 +52,5 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
+I have a passion for creating new things and keeping my learning experience active.
+ 
