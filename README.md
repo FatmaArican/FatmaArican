@@ -2,6 +2,13 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FatmaArican&show_icons=true&theme=tokyonight" />
 
 
+🔗 &nbsp;***Connect with me***
+<p align="left">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+<a href="https://linkedin.com/in/fatma-ar%C4%B1can-8b77001ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/FatmaArcan13?t=_6A4zzLFiMpQdJmtBGf9ww&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+ 
 <details>
   <summary><b>👀&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
@@ -29,10 +36,3 @@ I'm currently studying C# and .NET at Patika.dev bootcamp 🖥️ Thanks for sto
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
  
  
-
-🔗 &nbsp;***Connect with me***
-<p align="left">
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-<a href="https://linkedin.com/in/fatma-ar%C4%B1can-8b77001ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/FatmaArcan13?t=_6A4zzLFiMpQdJmtBGf9ww&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
