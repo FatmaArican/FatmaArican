@@ -1,5 +1,5 @@
 
-# Hi there, I'm Fatma 👋
+## Hi there, I'm Fatma 👋
 
 <img src="https://raw.githubusercontent.com/FatmaArican/FatmaArican/b734a09ca3976f1edd430f2075c703bdd44b23a3/giphy.gif" width="auto">
 
@@ -8,9 +8,9 @@
 
 
 🔗 &nbsp;***Connect with me***
-<p align="left">
+<p align="center">
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
 <a href="https://linkedin.com/in/fatma-ar%C4%B1can-8b77001ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/FatmaArcan13?t=_6A4zzLFiMpQdJmtBGf9ww&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
  
