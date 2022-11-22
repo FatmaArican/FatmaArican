@@ -1,9 +1,10 @@
+
 # Hi there, I'm Fatma 👋
 
 <img src="https://raw.githubusercontent.com/FatmaArican/FatmaArican/b734a09ca3976f1edd430f2075c703bdd44b23a3/giphy.gif" width="auto">
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FatmaArican&show_icons=true&theme=tokyonight" />
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=FatmaArican&show_icons=true&theme=tokyonight" />
 
 
 🔗 &nbsp;***Connect with me***
