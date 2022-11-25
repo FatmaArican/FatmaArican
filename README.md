@@ -1,14 +1,18 @@
+<p align="center">
+   Hi there, I'm Fatma 👋
+</p>
 
-## Hi there, I'm Fatma 👋
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/FatmaArican/FatmaArican/b734a09ca3976f1edd430f2075c703bdd44b23a3/giphy.gif" width="auto">
+</p>
 
-
+<p align="center">
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=FatmaArican&show_icons=true&theme=tokyonight" />
-
+</p>
 
 🔗 &nbsp;***Connect with me***
-<p align="center">
+
+
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
 <a href="https://linkedin.com/in/fatma-ar%C4%B1can-8b77001ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -40,4 +44,4 @@ I'm currently studying C# and .NET at Patika.dev bootcamp 🖥️ Thanks for sto
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
  
- 
+ </p>
