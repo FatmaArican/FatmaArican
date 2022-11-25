@@ -44,4 +44,4 @@ I'm currently studying C# and .NET at Patika.dev bootcamp 🖥️ Thanks for sto
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
  
- </p>
+
