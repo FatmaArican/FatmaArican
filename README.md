@@ -10,13 +10,34 @@
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=FatmaArican&show_icons=true&theme=tokyonight" />
 </p>
 
+<p>
+<b>👨🏻‍💻 Social Media:</b>
+<p align="center">
+</p>
+<p style="padding: 30px">
+
+<hr />
+
+<h3 align="center"> 👨🏻‍💻 Social Media: </h4>
+
+<p align="center">
+<a href="mailto:aricanfatma23@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="enginveske@gmail.com" height="30" width="30" /></a>
+<a href="[https://linkedin.com/in/engincan-veske-b4a75b145](https://linkedin.com/in/fatma-ar%C4%B1can-8b77001ba/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="engincan-veske-b4a75b145" height="30" width="30" /></a>   
+<a href="https://twitter.com/FatmaArcan13?t=_6A4zzLFiMpQdJmtBGf9ww&s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="engincanveske" height="30" width="30" /></a> 
+<a href="https://github.com/FatmaArican" target="blank"><img align="center" src="https://engincanv.github.io/assets/favicon.ico" alt="https://engincanv.github.io/" height="30" width="30" /></a>
+
+</p>
+
+<hr />
+
+
+
+
+
+
+
 🔗 &nbsp;***Connect with me***
 
-
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
-<a href="https://linkedin.com/in/fatma-ar%C4%B1can-8b77001ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/FatmaArcan13?t=_6A4zzLFiMpQdJmtBGf9ww&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
  
 <details>
   <summary><b>👀&nbsp;&nbsp;About&nbsp;Me</b></summary>
