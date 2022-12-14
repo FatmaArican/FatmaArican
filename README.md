@@ -2,14 +2,13 @@
    Hi there, I'm Fatma 👋
 </p>
 
-<hr />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FatmaArican/FatmaArican/b734a09ca3976f1edd430f2075c703bdd44b23a3/giphy.gif" width="auto">
 </p>
 
 
-<hr />
+
 
 <p align="center">
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=FatmaArican&show_icons=true&theme=tokyonight" />
@@ -38,7 +37,7 @@
  </details> 
 
 
-<hr />
+
 
 <details>
   <summary><b>👀&nbsp;&nbsp;About&nbsp;Me</b></summary>
